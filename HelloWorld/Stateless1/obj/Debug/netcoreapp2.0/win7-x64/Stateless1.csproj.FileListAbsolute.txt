@@ -1,0 +1,14 @@
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\obj\Debug\netcoreapp2.0\win7-x64\Stateless1.csproj.CoreCompileInputs.cache
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\obj\Debug\netcoreapp2.0\win7-x64\Stateless1.AssemblyInfoInputs.cache
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\obj\Debug\netcoreapp2.0\win7-x64\Stateless1.AssemblyInfo.cs
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\bin\Debug\netcoreapp2.0\win7-x64\Stateless1.exe
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\bin\Debug\netcoreapp2.0\win7-x64\Stateless1.deps.json
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\bin\Debug\netcoreapp2.0\win7-x64\Stateless1.runtimeconfig.json
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\bin\Debug\netcoreapp2.0\win7-x64\Stateless1.runtimeconfig.dev.json
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\bin\Debug\netcoreapp2.0\win7-x64\Stateless1.dll
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\bin\Debug\netcoreapp2.0\win7-x64\Stateless1.pdb
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\obj\Debug\netcoreapp2.0\win7-x64\Stateless1.csprojResolveAssemblyReference.cache
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\obj\Debug\netcoreapp2.0\win7-x64\Stateless1.dll
+C:\Users\bizruntime\source\repos\HelloWorld\Stateless1\obj\Debug\netcoreapp2.0\win7-x64\Stateless1.pdb

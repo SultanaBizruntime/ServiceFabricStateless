@@ -1,0 +1,14 @@
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\obj\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.csproj.CoreCompileInputs.cache
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\obj\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.AssemblyInfoInputs.cache
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\obj\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.AssemblyInfo.cs
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\bin\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.exe
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\bin\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.deps.json
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\bin\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.runtimeconfig.json
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\bin\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.runtimeconfig.dev.json
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\bin\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.dll
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\obj\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.csprojResolveAssemblyReference.cache
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\bin\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.pdb
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\obj\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.dll
+C:\Users\bizruntime\source\repos\HelloWorld\HelloWorldStateful\obj\Debug\netcoreapp2.0\win7-x64\HelloWorldStateful.pdb
